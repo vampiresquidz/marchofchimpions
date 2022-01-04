@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background-image: url("https://www.chimpions.co/static/media/Background_Banner.a38dd76995508d4ad82a.png");
+  background-color: #000000;
+}
+
+#canvas {
+  width: 100%;
+  height: 100%;
+}
